@@ -177,30 +177,30 @@ Example: 09/10/2022, 30/03/2022
 
 # SQL Concepts Used
 
-DDL (CREATE, ALTER, DROP)
+- DDL (CREATE, ALTER, DROP)
 
-DML (INSERT, UPDATE, DELETE)
+- DML (INSERT, UPDATE, DELETE)
 
-SELECT Queries
+- SELECT Queries
 
-JOINs
+- JOINs
 
-GROUP BY & HAVING
+- GROUP BY & HAVING
 
-Aggregate Functions
+- Aggregate Functions
 
-Subqueries
+- Subqueries
 
-Constraints (PK, FK)
+- Constraints (PK, FK)
 
-Data Filtering
+- Data Filtering
 
 # Project Outcomes :
 
-Improved understanding of relational database design
+- Improved understanding of relational database design
 
-Real-time retail business analytics practice
+- Real-time retail business analytics practice
 
-Practical SQL implementation experience
+- Practical SQL implementation experience
 
-Business decision-making insights
+- Business decision-making insights
